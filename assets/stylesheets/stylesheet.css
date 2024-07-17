@@ -950,7 +950,7 @@ input {
 }
 
 .sparkle-background {
-    background-image: url('https://nvfy.lol/assets/others/sparkle.gif');
+    background-image: url('https://nvfy.lol/assets/media/dot.png');
     background-repeat: repeat;
     display: inline-block;
     /* Wrap around the content */
