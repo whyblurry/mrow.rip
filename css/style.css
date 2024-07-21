@@ -43,7 +43,7 @@ p[style] i {
     color: inherit;
     }
 
-p[style] b:hover {
+p[style] i:hover {
     color: rgb(48, 9, 158)
 }
 
