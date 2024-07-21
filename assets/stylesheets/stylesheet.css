@@ -9,7 +9,7 @@ html {
 }
 
 #pattern {
-    background: transparent url('assets/media/dot.png') repeat 0 0;
+    background: transparent url('../assets/media/dot.png') repeat 0 0;
     top: 0;
     left: 0;
     margin: 0;
@@ -44,6 +44,7 @@ html {
     filter: blur(5px);
 
 }
+
 /* glitch */
 
 .portfolio-experiment .experiment-title,
