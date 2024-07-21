@@ -37,6 +37,16 @@ p[style] a:hover {
 	color: rgb(165, 67, 1)
 }
 
+p[style] b {
+    text-decoration: none;
+    font-style: italic;
+    color: inherit;
+    }
+
+p[style] b:hover {
+    color: rgb(48, 9, 158)
+}
+
 .top a {
     font-size: 18px;
     padding: 6px;
