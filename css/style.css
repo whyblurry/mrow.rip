@@ -37,7 +37,7 @@ p[style] a:hover {
 	color: rgb(165, 67, 1)
 }
 
-p[style] b {
+p[style] i {
     text-decoration: none;
     font-style: italic;
     color: inherit;
