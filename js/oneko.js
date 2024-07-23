@@ -371,23 +371,3 @@
     }
     setTimeout(() => setVariant('maia'), 5000);
 })();
-/*
-     FILE ARCHIVED ON 17:40:13 Jan 30, 2024 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 01:46:52 Jul 22, 2024.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
-
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
-*/
-/*
-playback timings (ms):
-  captures_list: 0.765
-  exclusion.robots: 0.043
-  exclusion.robots.policy: 0.027
-  esindex: 0.02
-  cdx.remote: 7.773
-  LoadShardBlock: 141.478 (3)
-  PetaboxLoader3.datanode: 122.947 (4)
-  PetaboxLoader3.resolve: 117.974 (2)
-  load_resource: 109.52
-*/
