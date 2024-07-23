@@ -371,8 +371,6 @@
     }
     setTimeout(() => setVariant('maia'), 5000);
 })();
-
-}
 /*
      FILE ARCHIVED ON 17:40:13 Jan 30, 2024 AND RETRIEVED FROM THE
      INTERNET ARCHIVE ON 01:46:52 Jul 22, 2024.
