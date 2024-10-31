@@ -10,18 +10,11 @@
 }
 
 body {
-    font-family: var(--font-family);
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 1.5;
-    color: var(--color-text);
-    background-color: var(--color-background);
-    margin: 0;
-    padding: 0;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    scroll-behavior: smooth;
-    user-select: none;
-    overflow: -moz-scrollbars-none;
-    -ms-overflow-style: none
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #000;
+    color: #fff;
+    font-family: 'Roboto Mono', monospace;
 }
