@@ -23,7 +23,7 @@ body {
     align-items: center;
 }
 
-.author {
-    align-items: center;
-    text-align: justify;
+.paragraph {
+    text-align: center;
+    display: flex;
 }
