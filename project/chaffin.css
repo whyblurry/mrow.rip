@@ -19,4 +19,6 @@ body {
     font-family: 'Roboto Mono', monospace;
 }
 
-.
+.title {
+    align-items: center;
+}
