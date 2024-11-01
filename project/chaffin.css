@@ -22,3 +22,8 @@ body {
 .title {
     align-items: center;
 }
+
+.author {
+    align-items: center;
+    text-align: center;
+}
